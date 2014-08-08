@@ -1,0 +1,18 @@
+## Interface: 60000
+## Title: Advanced Tukui ActionBars
+## Version: 3.0
+## Author: Sinaris
+## RequiredDeps: Advanced_Tukui_ActionBars-ConfigUI, Tukui
+## X-oUF: TukuiUnitFrameFramework
+## Website: http://www.AsphyxiaUI.de
+
+Layouts\2x12BB-2x3BSB-2x12RB.lua
+Layouts\2x12BB-3x12RB.lua
+Layouts\2x24BB-1x12RB.lua
+Layouts\2x24BB-2x3BSB.lua
+Layouts\3x12BB-2x12RB.lua
+Layouts\3x12BB-3x2BSB-1x12RB.lua
+Layouts\3x12BB-4x3BSB.lua
+Layouts\4x12BB-1x12RB.lua
+Layouts\5x12BB.lua
+Layouts\Belkin-n52.lua
